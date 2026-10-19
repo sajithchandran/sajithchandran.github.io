@@ -5,11 +5,11 @@
 Key facts:
 
 - Current role: Senior Vice President of Technology, Narayana Health (since June 2024; VP of Engineering from July 2016).
-- Founder of Daiva Health (https://daiva.health/): open-source healthcare software — athma CE (HIS and EMR), padma (clinical pathways) and aiorta (AI-assisted clinical research).
+- Founder of Daiva Health (https://daiva.health/): open-source healthcare software — athma CE (HIS and EMR) and OpenMedForm (https://openmedform.daiva.health/), an AI-powered clinical form builder that generates versioned JSON forms coded to SNOMED CT, LOINC and ICD-10.
 - Athma platform (https://athma.health/) at Narayana Health (https://www.narayanahealth.org/): an AI-powered, cloud-agnostic healthcare platform live at 75+ sites in 8 countries, supporting 9,000+ beds and 20 million+ transactions a day, built on HL7 and FHIR microservices. Products: clinical (EMR, admission-discharge-transfer, ambulatory, LIS, RIS, operation theatre, blood bank, ICU app, incident management), operational (billing, pharmacy, procurement, inventory, patient relationship management), mobile (AADI doctor app, NAMAH nurses' app, acare admin app, NH Care patient app) and data and AI (Athmatrix analytics, AIRA).
 - Earlier: co-founder of Ziller, a Kochi e-pharmacy start-up delivering prescribed medicines within 90 minutes (2015–16); Technical Architect, General Manager and CTO (Dubai) at ICT Health, where he architected HINAI (2010–15); Software Engineer to Technical Architect at SRIT, building rCare (HIMS/EMR/LIMS) and rChive (RIS/PACS) (2004–10); initial core team on Amrita HIMS at Amrita Technologies (2002–04).
 - Hospital systems deployed across the USA, Canada, the UK, the Middle East, India and Asia-Pacific.
-- Expertise: HIS, EMR, LIS/LIMS, RIS, PACS, HL7, FHIR, IHE, DICOM, healthcare interoperability, clinical AI.
+- Expertise: HIS, EMR, LIS/LIMS, RIS, PACS, HL7, FHIR, IHE, DICOM, SNOMED CT, LOINC, ICD-10, healthcare interoperability, clinical AI.
 - Education: Master's in Software and Information Systems.
 
 ## CV
@@ -21,8 +21,7 @@ Key facts:
 ## Open-source projects
 
 - [athma CE](https://github.com/daivahealth/athma-ce): open-source HIS and EMR
-- [padma](https://github.com/daivahealth/padma): clinical pathways
-- [aiorta](https://github.com/daivahealth/aiorta): AI-assisted clinical research
+- [OpenMedForm](https://openmedform.daiva.health/): AI-powered clinical form builder with React, Angular and Flutter renderers
 
 ## Profiles
 

@@ -15,7 +15,7 @@ Today I lead technology at Narayana Health, where I conceived and architected th
 ## Selected impact
 
 - Conceived, architected and built **[Athma](https://athma.health/)**, and scaled it to 75+ sites in 8 countries.
-- Founded **[Daiva Health](https://daiva.health/)**, which publishes free, open-source healthcare software: athma CE (HIS + EMR), padma (clinical pathways) and aiorta (clinical research).
+- Founded **[Daiva Health](https://daiva.health/)**, which publishes free, open-source healthcare software, including athma CE (HIS + EMR) and OpenMedForm (AI-powered clinical forms).
 - Shipped four generations of hospital systems from the ground up: Amrita HIMS, rCare + rChive, HINAI and Athma.
 - Built and lead the engineering organisation behind Athma.
 - Delivered hospital systems into six markets with different regulatory regimes.
@@ -40,7 +40,7 @@ Today I lead technology at Narayana Health, where I conceived and architected th
 Founder
 
 - Founded Daiva Health to remove cost barriers to healthcare technology: free, open-source digital and AI software for hospitals, clinics and providers of every size.
-- Product catalogue, each with a public GitHub repository: **[athma CE](https://github.com/daivahealth/athma-ce)** (open-source HIS and EMR), **[padma](https://github.com/daivahealth/padma)** (evidence-based clinical pathways) and **[aiorta](https://github.com/daivahealth/aiorta)** (AI-assisted clinical research).
+- Products include **[athma CE](https://github.com/daivahealth/athma-ce)**, an open-source HIS and EMR, and **[OpenMedForm](https://openmedform.daiva.health/)**, which uses AI to turn a prompt or paper form into a coded clinical form (SNOMED CT, LOINC, ICD-10) that renders inside any EMR.
 
 ### [Narayana Health](https://www.narayanahealth.org/) · Bengaluru — Jul 2016 – present
 VP of Engineering (Jul 2016) → Senior Vice President of Technology (Jun 2024 – present)
@@ -76,7 +76,7 @@ Software Engineer
 
 ## Skills
 
-- **Platform & interoperability:** HIS / EMR architecture, HL7, FHIR, IHE profiles, integration APIs, requirements analysis
+- **Platform & interoperability:** HIS / EMR architecture, HL7, FHIR, IHE profiles, SNOMED CT, LOINC, ICD-10, integration APIs, requirements analysis
 - **Imaging & diagnostics:** RIS, PACS, DICOM, LIS / LIMS, radiology and lab workflow
 - **Data & AI:** clinical and operational analytics, applied AI in clinical workflow, ambient voice-to-EMR, connected devices
 - **Technology leadership:** hands-on system design and architecture, product ownership, platform strategy, open-source product building, building engineering teams, multi-country delivery, start-up co-founding
