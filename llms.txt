@@ -1,0 +1,25 @@
+# Sajith Chandran
+
+> Sajith Chandran is a hands-on healthcare technologist from Bengaluru, India, with a 24-year career spent entirely in healthcare technology. He is Senior Vice President of Technology at Narayana Health, where he conceived and architected the Athma clinical platform, and the founder of Daiva Health, which publishes free, open-source healthcare software.
+
+Key facts:
+
+- Current role: Senior Vice President of Technology, Narayana Health (since June 2024; VP of Engineering from July 2016).
+- Founder of Daiva Health (https://daiva.health/): open-source healthcare software — athma CE (HIS and EMR), padma (clinical pathways) and aiorta (AI-assisted clinical research).
+- Athma platform at Narayana Health: Athma Core (EMR + HIMS), Athma LIMS / RIS, AADI (doctor app), NAMAH (nurses' app), ICU App, Athmatrix (analytics), AIRA (AI) and NH Care (patient app).
+- Earlier: co-founder of Ziller, a Kochi e-pharmacy start-up (2015–16); Technical Architect, General Manager and CTO (Dubai) at ICT Health, where he architected HINAI (2010–15); Software Engineer to Technical Architect at Sobha Renaissance Information Technology, building rCare (HIMS/EMR/LIMS) and rChive (RIS/PACS) (2004–10); initial core team on Amrita HIMS at Amrita Technologies (2002–04).
+- Hospital systems deployed across the USA, Canada, the UK, the Middle East, India and Asia-Pacific.
+- Expertise: HIS, EMR, LIS/LIMS, RIS, PACS, HL7, FHIR, IHE, DICOM, healthcare interoperability, clinical AI.
+- Education: Master's in Software and Information Systems.
+
+## CV
+
+- [CV (web page)](https://sajithchandran.github.io/): full CV with experience, products and skills
+- [CV (Markdown)](https://sajithchandran.github.io/cv.md): the same CV as plain Markdown
+- [CV (PDF)](https://sajithchandran.github.io/cv.pdf): two-page A4 CV
+
+## Profiles
+
+- [LinkedIn](https://www.linkedin.com/in/sajithchandran-003593b)
+- [GitHub](https://github.com/sajithchandran)
+- [Daiva Health](https://daiva.health/)
