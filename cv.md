@@ -14,7 +14,7 @@ Today I lead technology at Narayana Health, where I conceived and architected th
 
 ## Selected impact
 
-- Conceived, architected and built **Athma**, an eight-product clinical platform spanning EMR, lab and radiology, bedside, critical care, analytics, AI and a patient app.
+- Conceived, architected and built **[Athma](https://athma.health/)**, an eight-product clinical platform spanning EMR, lab and radiology, bedside, critical care, analytics, AI and a patient app.
 - Founded **[Daiva Health](https://daiva.health/)**, which publishes free, open-source healthcare software: athma CE (HIS + EMR), padma (clinical pathways) and aiorta (clinical research).
 - Shipped four generations of hospital systems from the ground up: Amrita HIMS, rCare + rChive, HINAI and Athma.
 - Built and lead the engineering organisation behind Athma.
@@ -44,7 +44,7 @@ Founder
 - Founded Daiva Health to remove cost barriers to healthcare technology: free, open-source digital and AI software for hospitals, clinics and providers of every size.
 - Product catalogue, each with a public GitHub repository: **[athma CE](https://github.com/daivahealth/athma-ce)** (open-source HIS and EMR), **[padma](https://github.com/daivahealth/padma)** (evidence-based clinical pathways) and **[aiorta](https://github.com/daivahealth/aiorta)** (AI-assisted clinical research).
 
-### Narayana Health · Bengaluru — Jul 2016 – present
+### [Narayana Health](https://www.narayanahealth.org/) · Bengaluru — Jul 2016 – present
 VP of Engineering (Jul 2016) → Senior Vice President of Technology (Jun 2024 – present)
 
 - Conceived, architected and built the Athma platform and its eight products; own the roadmap and the engineering team.
@@ -57,13 +57,13 @@ Co-Founder
 - Built the service on neighbourhood drug stores: in-house pharmacists verified every prescription, and Ziller's own delivery team delivered within 90 minutes.
 - Reached up to 100 deliveries a day, with more than 90% of early customers ordering again. Covered by Express News Service and Malayala Manorama.
 
-### ICT Health — Feb 2010 – Oct 2015
+### [ICT Health](https://icthealth.com/) — Feb 2010 – Oct 2015
 Technical Architect (2010) → General Manager (2012) → CTO, Dubai (2014 – 2015)
 
 - Architected **HINAI**, ICT Health's hospital information system.
 - As CTO in Dubai, led technology for the company's products and Middle East deployments.
 
-### Sobha Renaissance Information Technology (SRIT) · Bengaluru — Dec 2004 – Jan 2010
+### [SRIT](https://www.sritindia.com/) · Bengaluru — Dec 2004 – Jan 2010
 Software Engineer → Senior Software Engineer (2005) → Tech Lead → Technical Architect
 
 - Built **rCare**, SRIT's hospital system covering HIMS, EMR and LIMS — the clinical and laboratory record.
@@ -71,7 +71,7 @@ Software Engineer → Senior Software Engineer (2005) → Tech Lead → Technica
 - Together they gave hospitals one record-to-image chain: admission, EMR, lab, radiology order, worklist, image archive.
 - Promoted to Senior Software Engineer within six months; then moved into the Tech Lead and Technical Architect roles.
 
-### Amrita Technologies — Jan 2002 – Dec 2004
+### [Amrita Technologies](https://www.amritatech.com/) — Jan 2002 – Dec 2004
 Software Engineer
 
 - Member of the initial core team that built **Amrita HIMS**, a greenfield hospital information system.
