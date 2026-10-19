@@ -12,7 +12,7 @@ A hands-on technologist who has spent an entire 24-year career in one domain: he
 
 ## Selected impact
 
-- Conceived, architected and built **Athma**, an eight-product clinical platform spanning EMR, lab, imaging, bedside, critical care, analytics and AI.
+- Conceived, architected and built **Athma**, an eight-product clinical platform spanning EMR, lab and radiology, bedside, critical care, analytics, AI and a patient app.
 - Founded **[Daiva Health](https://daiva.health/)**, which publishes free, open-source healthcare software: athma CE (HIS + EMR), padma (clinical pathways) and aiorta (clinical research).
 - Shipped four generations of hospital systems from the ground up: Amrita HIMS, rCare + rChive, HINAI and Athma.
 - Built and lead the engineering organisation behind Athma.
@@ -20,18 +20,18 @@ A hands-on technologist who has spent an entire 24-year career in one domain: he
 
 ## Athma Platform — Product & Technology Ownership
 
-At Narayana Health I conceived and architected Athma end to end, and own its product roadmap and the engineering organisation behind it. Athma is a platform with a family of products on one patient record — from registration to the image archive, from the ward to the ICU.
+At Narayana Health I conceived and architected Athma end to end, and own its product roadmap and the engineering organisation behind it. Athma is a platform with a family of products on one patient record — from registration to the lab and radiology, from the ward to the ICU, and on to the patient's own phone.
 
 | Product | What it does |
 |---|---|
 | Athma Core | EMR + HIMS: registration, admission, orders, clinical notes, billing |
-| Athma LIMS | Laboratory information management |
-| Athma PACS | Imaging archive and radiology |
+| Athma LIMS / RIS | Laboratory and radiology information management |
 | AADI | Doctor app |
 | NAMAH | Nurses' app for ward workflow |
 | ICU App | Critical-care workflow |
 | Athmatrix | Operational and clinical analytics |
 | AIRA | Clinical and operational AI |
+| NH Care | Patient app |
 
 
 ## Experience
