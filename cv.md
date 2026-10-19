@@ -40,7 +40,7 @@ Today I lead technology at Narayana Health, where I conceived and architected th
 Founder
 
 - Founded Daiva Health to remove cost barriers to healthcare technology: free, open-source digital and AI software for hospitals, clinics and providers of every size.
-- Products include **[athma CE](https://github.com/daivahealth/athma-ce)**, an open-source HIS and EMR, and **[OpenMedForm](https://openmedform.daiva.health/)**, which uses AI to turn a prompt or paper form into a coded clinical form (SNOMED CT, LOINC, ICD-10) that renders inside any EMR.
+- Products include **[athma CE](https://github.com/daivahealth/athma-ce)**, an open-source HIS and EMR, and **[OpenMedForm](https://openmedform.daiva.health/)** ([openmedform.daiva.health](https://openmedform.daiva.health/)), which uses AI to turn a prompt or paper form into a coded clinical form (SNOMED CT, LOINC, ICD-10) that renders inside any EMR.
 
 ### [Narayana Health](https://www.narayanahealth.org/) · Bengaluru — Jul 2016 – present
 VP of Engineering (Jul 2016) → Senior Vice President of Technology (Jun 2024 – present)
