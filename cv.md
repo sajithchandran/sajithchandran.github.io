@@ -30,7 +30,7 @@ Today I lead technology at Narayana Health, where I conceived and architected th
 |---|---|
 | Clinical | Electronic Medical Record (EMR), Admission–Discharge–Transfer, Ambulatory (outpatient), Lab Information System (LIS), Radiology Information System (RIS), Operation Theatre, Blood Bank, ICU App, Incident Management |
 | Operational | Billing, Pharmacy, Procurement, Inventory, Patient Relationship Management |
-| Mobile | AADI (doctor app), NAMAH (nurses' app), acare (admin app), NH Care (patient app) |
+| Mobile | AADI (doctor app), NAMAH (nurses' app), AHAM (admin app), NH Care (patient app) |
 | Data & AI | Athmatrix (operational and clinical analytics), AIRA (clinical and operational AI) |
 
 
