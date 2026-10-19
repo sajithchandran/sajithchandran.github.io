@@ -14,7 +14,7 @@ Today I lead technology at Narayana Health, where I conceived and architected th
 
 ## Selected impact
 
-- Conceived, architected and built **[Athma](https://athma.health/)**, an AI-powered healthcare platform spanning clinical, operational, mobile, analytics and AI products — live at 75+ sites in 8 countries, supporting 9,000+ beds and 20 million+ transactions a day.
+- Conceived, architected and built **[Athma](https://athma.health/)**, and scaled it to 75+ sites in 8 countries.
 - Founded **[Daiva Health](https://daiva.health/)**, which publishes free, open-source healthcare software: athma CE (HIS + EMR), padma (clinical pathways) and aiorta (clinical research).
 - Shipped four generations of hospital systems from the ground up: Amrita HIMS, rCare + rChive, HINAI and Athma.
 - Built and lead the engineering organisation behind Athma.
@@ -22,9 +22,9 @@ Today I lead technology at Narayana Health, where I conceived and architected th
 
 ## Athma Platform — Product & Technology Ownership
 
-At [Narayana Health](https://www.narayanahealth.org/) I conceived and architected [Athma](https://athma.health/) end to end, and own its product roadmap and the engineering organisation behind it. Athma is an AI-powered, cloud-agnostic healthcare platform that unifies hospitals, clinics, diagnostic chains and pharmacies on one interoperable patient record, with products across clinical care, hospital operations, mobile, analytics and AI.
+[Athma](https://athma.health/) is [Narayana Health](https://www.narayanahealth.org/)'s AI-powered, cloud-agnostic healthcare platform. It unifies hospitals, clinics, diagnostic chains and pharmacies on one interoperable patient record. I own its product roadmap and architecture.
 
-**75+ sites in 8 countries · 9,000+ beds · 20M+ transactions a day · HL7 and FHIR microservices** (source: [athma.health](https://athma.health/athma-products), October 2026)
+**20+ products · 9,000+ beds · 20M+ transactions a day · HL7 and FHIR microservices** (source: [athma.health](https://athma.health/athma-products), October 2026)
 
 | Area | Products |
 |---|---|
@@ -45,7 +45,7 @@ Founder
 ### [Narayana Health](https://www.narayanahealth.org/) · Bengaluru — Jul 2016 – present
 VP of Engineering (Jul 2016) → Senior Vice President of Technology (Jun 2024 – present)
 
-- Conceived, architected and built the Athma platform and its product family; own the roadmap and the engineering team.
+- Lead technology for the group: Athma's architecture and roadmap, and the engineering team that builds it.
 - Designed Athma's integration layer: partner APIs and FHIR ingestion of patient, encounter, allergy and social-history data, plus walk-in integration (2021–23).
 
 ### Ziller · Kochi — Nov 2015 – Jul 2016
