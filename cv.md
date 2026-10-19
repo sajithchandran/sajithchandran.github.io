@@ -1,7 +1,7 @@
 # Sajith Chandran
 
 **Senior Vice President of Technology, Narayana Health**
-*Hands-on healthcare technologist · 24 years · healthcare only*
+*Healthcare technologist · 24 years · healthcare only*
 Bengaluru, India · sajithchandran@gmail.com · linkedin.com/in/sajithchandran-003593b
 
 A hands-on technologist who has spent an entire 24-year career in one domain: healthcare. I have designed and built hospital information systems — HIS, EMR, LIS, RIS and PACS — from code to architecture, and deployed them across the USA, Canada, the UK, the Middle East, India and Asia-Pacific. Today I lead technology at Narayana Health, where I conceived and architected the Athma platform, and I founded Daiva Health to make open-source healthcare software available to every hospital, clinic and doctor. I stay close to the design and the code.
