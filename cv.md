@@ -2,9 +2,11 @@
 
 **Senior Vice President of Technology, Narayana Health**
 *Healthcare technologist · 24 years · healthcare only*
-Bengaluru, India · sajithchandran@gmail.com · linkedin.com/in/sajithchandran-003593b
+Bengaluru, India · sajithchandran@gmail.com · [linkedin.com/in/sajithchandran-003593b](https://www.linkedin.com/in/sajithchandran-003593b) · [github.com/sajithchandran](https://github.com/sajithchandran) · [daiva.health](https://daiva.health/)
 
-A hands-on technologist who has spent an entire 24-year career in one domain: healthcare. I have designed and built hospital information systems — HIS, EMR, LIS, RIS and PACS — from code to architecture, and deployed them across the USA, Canada, the UK, the Middle East, India and Asia-Pacific. Today I lead technology at Narayana Health, where I conceived and architected the Athma platform, and I founded Daiva Health to make open-source healthcare software available to every hospital, clinic and doctor. I stay close to the design and the code.
+A hands-on technologist who has spent an entire 24-year career in one domain: healthcare. I have designed and built hospital information systems — HIS, EMR, LIS, RIS and PACS — from code to architecture, and deployed them across the USA, Canada, the UK, the Middle East, India and Asia-Pacific.
+
+Today I lead technology at Narayana Health, where I conceived and architected the Athma platform, and I founded Daiva Health to make open-source healthcare software available to every hospital, clinic and doctor. I stay close to the design and the code.
 
 | 24 years | Hands-on | 4 generations | 6 markets |
 |---|---|---|---|
@@ -40,7 +42,7 @@ At Narayana Health I conceived and architected Athma end to end, and own its pro
 Founder
 
 - Founded Daiva Health to remove cost barriers to healthcare technology: free, open-source digital and AI software for hospitals, clinics and providers of every size.
-- Product catalogue, each with a public GitHub repository: **athma CE** (open-source HIS and EMR), **padma** (evidence-based clinical pathways) and **aiorta** (AI-assisted clinical research).
+- Product catalogue, each with a public GitHub repository: **[athma CE](https://github.com/daivahealth/athma-ce)** (open-source HIS and EMR), **[padma](https://github.com/daivahealth/padma)** (evidence-based clinical pathways) and **[aiorta](https://github.com/daivahealth/aiorta)** (AI-assisted clinical research).
 
 ### Narayana Health · Bengaluru — Jul 2016 – present
 VP of Engineering (Jul 2016) → Senior Vice President of Technology (Jun 2024 – present)
