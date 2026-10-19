@@ -57,7 +57,7 @@
     "name": "Athma",
     "url": "https://athma.health/",
     "applicationCategory": "HealthApplication",
-    "description": "Clinical platform with EMR + HIMS, LIMS / RIS, doctor, nurse, ICU and patient apps, analytics and AI.",
+    "description": "AI-powered, cloud-agnostic healthcare platform with clinical, operational, mobile, analytics and AI products; live at 75+ sites in 8 countries, supporting 9,000+ beds and 20 million+ transactions a day.",
     "creator": {
      "@id": "https://sajithchandran.github.io/#person"
     }
@@ -255,7 +255,12 @@
     background: var(--accent-soft); border-radius: 5px; padding: 9px 11px; font-size: 12px; line-height: 1.35;
     color: var(--muted);
   }
-  .chip b { display: block; color: var(--ink); font-size: 13px; margin-bottom: 2px; }
+  .chip b { display: block; color: var(--ink); font-size: 13px; margin-bottom: 4px; }
+  .chip ul { margin: 0; padding: 0; list-style: none; }
+  .chip li { margin: 2px 0; }
+  .chip li strong { color: var(--ink); font-weight: 600; }
+  .athma-stats { margin: 0 0 12px; }
+  .athma-src { margin: 8px 0 0; font-size: 12px; }
   .athma-close { margin-top: 12px; }
 
   /* Experience */
@@ -323,6 +328,10 @@
     section { margin-top: 12px; }
     .grid { gap: 6px; }
     .chip { padding: 6px 8px; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    .grid { break-inside: avoid; }
+    .chip li { display: inline; margin: 0; }
+    .chip li:not(:last-child)::after { content: " · "; color: var(--faint); }
+    .athma-stats { margin-bottom: 8px; }
     mark.tk { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
     a { color: var(--ink); }
     h2 { break-after: avoid; }
@@ -370,7 +379,7 @@
   <section>
     <h2>Selected impact</h2>
     <ul>
-      <li>Conceived, architected and built <strong><a href="https://athma.health/">Athma</a></strong>, an eight-product clinical platform spanning EMR, lab and radiology, bedside, critical care, analytics, AI and a patient app.</li>
+      <li>Conceived, architected and built <strong><a href="https://athma.health/">Athma</a></strong>, an AI-powered healthcare platform spanning clinical, operational, mobile, analytics and AI products — live at 75+ sites in 8 countries, supporting 9,000+ beds and 20 million+ transactions a day.</li>
       <li>Founded <strong><a href="https://daiva.health/">Daiva Health</a></strong>, which publishes free, open-source healthcare software: athma CE (HIS + EMR), padma (clinical pathways) and aiorta (clinical research).</li>
       <li>Shipped four generations of hospital systems from the ground up: Amrita HIMS, rCare + rChive, HINAI and Athma.</li>
       <li>Built and lead the engineering organisation behind Athma.</li>
@@ -381,18 +390,28 @@
   <section>
     <h2>Athma Platform — Product &amp; Technology Ownership</h2>
     <p class="athma-lede">
-      At <a href="https://www.narayanahealth.org/">Narayana Health</a> I conceived and architected <a href="https://athma.health/">Athma</a> end to end, and own its product roadmap and the engineering organisation behind it. Athma is a platform with a family of products on one patient record — from registration to the lab and radiology, from the ward to the ICU, and on to the patient’s own phone.
+      At <a href="https://www.narayanahealth.org/">Narayana Health</a> I conceived and architected <a href="https://athma.health/">Athma</a> end to end, and own its product roadmap and the engineering organisation behind it. Athma is an AI-powered, cloud-agnostic healthcare platform that unifies hospitals, clinics, diagnostic chains and pharmacies on one interoperable patient record, with products across clinical care, hospital operations, mobile, analytics and AI.
     </p>
-    <div class="grid">
-      <div class="chip"><b>Athma Core</b>EMR + HIMS: registration, admission, orders, clinical notes, billing</div>
-      <div class="chip"><b>Athma LIMS / RIS</b>Laboratory and radiology information management</div>
-      <div class="chip"><b>AADI</b>Doctor app</div>
-      <div class="chip"><b>NAMAH</b>Nurses’ app for ward workflow</div>
-      <div class="chip"><b>ICU App</b>Critical-care workflow</div>
-      <div class="chip"><b>Athmatrix</b>Operational and clinical analytics</div>
-      <div class="chip"><b>AIRA</b>Clinical and operational AI</div>
-      <div class="chip"><b>NH Care</b>Patient app</div>
+    <div class="glance athma-stats">
+      <div><b>75+ sites</b>Live across 8 countries</div>
+      <div><b>9,000+ beds</b>Running on Athma</div>
+      <div><b>20M+</b>Transactions every day</div>
+      <div><b>HL7 · FHIR</b>Microservices, cloud-agnostic</div>
     </div>
+    <div class="grid">
+      <div class="chip"><b>Clinical</b><ul>
+        <li>Electronic Medical Record (EMR)</li><li>Admission, Discharge, Transfer</li><li>Ambulatory (outpatient)</li>
+        <li>Lab Information System (LIS)</li><li>Radiology Information System (RIS)</li><li>Operation Theatre</li>
+        <li>Blood Bank</li><li>ICU App</li><li>Incident Management</li></ul></div>
+      <div class="chip"><b>Operational</b><ul>
+        <li>Billing</li><li>Pharmacy</li><li>Procurement</li><li>Inventory</li><li>Patient Relationship Management</li></ul></div>
+      <div class="chip"><b>Mobile</b><ul>
+        <li><strong>AADI</strong> — doctor app</li><li><strong>NAMAH</strong> — nurses’ app</li>
+        <li><strong>acare</strong> — admin app</li><li><strong>NH Care</strong> — patient app</li></ul></div>
+      <div class="chip"><b>Data &amp; AI</b><ul>
+        <li><strong>Athmatrix</strong> — operational and clinical analytics</li><li><strong>AIRA</strong> — clinical and operational AI</li></ul></div>
+    </div>
+    <p class="small athma-src">Figures from <a href="https://athma.health/athma-products">athma.health</a>, October 2026.</p>
   </section>
 
   <section>
@@ -417,7 +436,7 @@
       </div>
       <div class="ladder">VP of Engineering (Jul 2016)<span class="arrow">→</span>Senior Vice President of Technology (Jun 2024 – present)</div>
       <ul>
-        <li>Conceived, architected and built the Athma platform and its eight products; own the roadmap and the engineering team.</li>
+        <li>Conceived, architected and built the Athma platform and its product family; own the roadmap and the engineering team.</li>
         <li>Designed Athma’s integration layer: partner APIs and FHIR ingestion of patient, encounter, allergy and social-history data, plus walk-in integration (2021–23).</li>
       </ul>
     </div>

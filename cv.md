@@ -14,7 +14,7 @@ Today I lead technology at Narayana Health, where I conceived and architected th
 
 ## Selected impact
 
-- Conceived, architected and built **[Athma](https://athma.health/)**, an eight-product clinical platform spanning EMR, lab and radiology, bedside, critical care, analytics, AI and a patient app.
+- Conceived, architected and built **[Athma](https://athma.health/)**, an AI-powered healthcare platform spanning clinical, operational, mobile, analytics and AI products — live at 75+ sites in 8 countries, supporting 9,000+ beds and 20 million+ transactions a day.
 - Founded **[Daiva Health](https://daiva.health/)**, which publishes free, open-source healthcare software: athma CE (HIS + EMR), padma (clinical pathways) and aiorta (clinical research).
 - Shipped four generations of hospital systems from the ground up: Amrita HIMS, rCare + rChive, HINAI and Athma.
 - Built and lead the engineering organisation behind Athma.
@@ -22,18 +22,16 @@ Today I lead technology at Narayana Health, where I conceived and architected th
 
 ## Athma Platform — Product & Technology Ownership
 
-At Narayana Health I conceived and architected Athma end to end, and own its product roadmap and the engineering organisation behind it. Athma is a platform with a family of products on one patient record — from registration to the lab and radiology, from the ward to the ICU, and on to the patient's own phone.
+At [Narayana Health](https://www.narayanahealth.org/) I conceived and architected [Athma](https://athma.health/) end to end, and own its product roadmap and the engineering organisation behind it. Athma is an AI-powered, cloud-agnostic healthcare platform that unifies hospitals, clinics, diagnostic chains and pharmacies on one interoperable patient record, with products across clinical care, hospital operations, mobile, analytics and AI.
 
-| Product | What it does |
+**75+ sites in 8 countries · 9,000+ beds · 20M+ transactions a day · HL7 and FHIR microservices** (source: [athma.health](https://athma.health/athma-products), October 2026)
+
+| Area | Products |
 |---|---|
-| Athma Core | EMR + HIMS: registration, admission, orders, clinical notes, billing |
-| Athma LIMS / RIS | Laboratory and radiology information management |
-| AADI | Doctor app |
-| NAMAH | Nurses' app for ward workflow |
-| ICU App | Critical-care workflow |
-| Athmatrix | Operational and clinical analytics |
-| AIRA | Clinical and operational AI |
-| NH Care | Patient app |
+| Clinical | Electronic Medical Record (EMR), Admission–Discharge–Transfer, Ambulatory (outpatient), Lab Information System (LIS), Radiology Information System (RIS), Operation Theatre, Blood Bank, ICU App, Incident Management |
+| Operational | Billing, Pharmacy, Procurement, Inventory, Patient Relationship Management |
+| Mobile | AADI (doctor app), NAMAH (nurses' app), acare (admin app), NH Care (patient app) |
+| Data & AI | Athmatrix (operational and clinical analytics), AIRA (clinical and operational AI) |
 
 
 ## Experience
@@ -47,7 +45,7 @@ Founder
 ### [Narayana Health](https://www.narayanahealth.org/) · Bengaluru — Jul 2016 – present
 VP of Engineering (Jul 2016) → Senior Vice President of Technology (Jun 2024 – present)
 
-- Conceived, architected and built the Athma platform and its eight products; own the roadmap and the engineering team.
+- Conceived, architected and built the Athma platform and its product family; own the roadmap and the engineering team.
 - Designed Athma's integration layer: partner APIs and FHIR ingestion of patient, encounter, allergy and social-history data, plus walk-in integration (2021–23).
 
 ### Ziller · Kochi — Nov 2015 – Jul 2016
