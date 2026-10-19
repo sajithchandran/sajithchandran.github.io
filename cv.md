@@ -48,8 +48,12 @@ VP of Engineering (Jul 2016) → Senior Vice President of Technology (Jun 2024 �
 - Conceived, architected and built the Athma platform and its eight products; own the roadmap and the engineering team.
 - Designed Athma's integration layer: partner APIs and FHIR ingestion of patient, encounter, allergy and social-history data, plus walk-in integration (2021–23).
 
-### Ziller · Bengaluru — Nov 2015 – Jul 2016
+### Ziller · Kochi — Nov 2015 – Jul 2016
 Co-Founder
+
+- Co-founded Ziller, a Kochi-based e-pharmacy start-up. Patients ordered medicines and healthcare products by photographing a prescription in the Android or iOS app, on WhatsApp or on the web.
+- Built the service on neighbourhood drug stores: in-house pharmacists verified every prescription, and Ziller's own delivery team delivered within 90 minutes.
+- Reached up to 100 deliveries a day, with more than 90% of early customers ordering again. Covered by Express News Service and Malayala Manorama.
 
 ### ICT Health — Feb 2010 – Oct 2015
 Technical Architect (2010) → General Manager (2012) → CTO, Dubai (2014 – 2015)
